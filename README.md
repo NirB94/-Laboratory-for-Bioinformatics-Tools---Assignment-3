@@ -1,4 +1,4 @@
-# -Laboratory-for-Bioinformatics-Tools---Assignment-3
+# Laboratory-for-Bioinformatics-Tools---Assignment-3
 The third out of four assignments for laboratory for bioinformatics tools course, spring 2022, @ Tel Aviv University. \
 In this assignment I was asked to implement UPGMA algorithm, construct phylogenetic trees according to provided data and check their statistical significance. \
 For more information please view ex3.pdf file. Code is in Python 3.9. \
